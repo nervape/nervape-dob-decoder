@@ -1,0 +1,13 @@
+{
+  "cell_recipes": [
+    {
+      "name": "spore-dob-0",
+      "tx_hash": "0x1409c2580672e9a40a3085ae0b450fc24df9190946cba9bae557e82661eb647b",
+      "index": 0,
+      "occupied_capacity": 8625400000000,
+      "data_hash": "0x7e5ae7c97b07f499ee24b23e3edfc0ff8b4d93b10a7677786c88cc4d13ae4702",
+      "type_id": "0x29ed2064aca15a08ff44d732622fccecd9487270c80e7be0e4a54241859bde5d"
+    }
+  ],
+  "dep_group_recipes": []
+}

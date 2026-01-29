@@ -1,4 +1,4 @@
-pub const NERVAPE_COLOR_NAMES: [&str; 16] = [
+pub const NERVAPE_COLOR_NAMES: [&str; 22] = [
     "Pure White",     // 0
     "Calm Blue",      // 1
     "Fortune Gold",   // 2
@@ -11,15 +11,22 @@ pub const NERVAPE_COLOR_NAMES: [&str; 16] = [
     "Orange Pill",  // 8
     "Water Veins",  // 9
     // 合作款
-    "Flowing Earth",              // 10
-    "爱",                         // 11
-    "Luminous",                   // 12
-    "Empty Your Mind",            // 13
-    "原點 - Origin",              // 14
-    "(+886) Layers 我眼中的風景", // 15
+    "Flowing Earth",              // 10 by SC
+    "爱",                         // 11 by 岛(Island)
+    "Luminous",                   // 12 by Eugenia Astor
+    "Empty Your Mind",            // 13  by S11
+    "原點 - Origin",              // 14 by kenalwayscan
+    "(+886) Layers 我眼中的風景", // 15 by Liury Liu
+    "A Quiet But Secretly Funny Programmer", // 16 by Gai
+    "Blue & White Ape", // 17 by SC
+    "The Color Cage", // 18 by Janus
+    "Downloads", // 19 by Dandan Wu
+    "Verde Tropical", // 20 by Male Cuéllar
+
+    "Volcán Orange" // 21 BTC Special Salvador
 ];
 
-pub const NERVAPE_NOTES: [&str; 7] = [
+pub const NERVAPE_NOTES: [&str; 11] = [
     "",                  // 0, empty
     "by SC",             // 1, by SC
     "by 岛",             // 2, by 岛
@@ -27,6 +34,10 @@ pub const NERVAPE_NOTES: [&str; 7] = [
     "by S11",            // 4, by S11
     "by kenalwayscan",   // 5, by kenalwayscan
     "by 劉銳 Liury Liu", // 6, by 劉銳 Liury Liu
+    "by Gai",    // 7
+    "by Janus", // 8
+    "by Dandan Wu", // 9
+    "by Male Cuéllar" // 10
 ];
 
 pub const NERVAPE_SERIES: [&str; 4] = [
