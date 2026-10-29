@@ -1,4 +1,4 @@
-pub const NERVAPE_COLOR_NAMES: [&str; 22] = [
+pub const NERVAPE_COLOR_NAMES: [&str; 34] = [
     "Pure White",     // 0
     "Calm Blue",      // 1
     "Fortune Gold",   // 2
@@ -23,10 +23,26 @@ pub const NERVAPE_COLOR_NAMES: [&str; 22] = [
     "Downloads", // 19 by Dandan Wu
     "Verde Tropical", // 20 by Male Cuéllar
 
-    "Volcán Orange" // 21 BTC Special Salvador
+    "Volcán Orange", // 21 BTC Special Salvador
+
+    "Indietoy", // 22 by Bradley
+
+    // 2026/10 lugano aritists
+    "Abstracted Tie Dye", // 23
+    "K!", // 24
+    "Talking Heads", // 25
+    "Mountain Mists", // 26
+    "Ba Jia Jiang", // 27
+    "Connection", // 28
+    "N 260930", // 29
+    "Peter Doi", // 30
+    "Majoncho", // 31
+    "Flowelcome", // 32
+    // 2026/10 lugano original
+    "Blocked Mind" // 33
 ];
 
-pub const NERVAPE_NOTES: [&str; 11] = [
+pub const NERVAPE_NOTES: [&str; 23] = [
     "",                  // 0, empty
     "by SC",             // 1, by SC
     "by 岛",             // 2, by 岛
@@ -37,14 +53,32 @@ pub const NERVAPE_NOTES: [&str; 11] = [
     "by Gai",    // 7
     "by Janus", // 8
     "by Dandan Wu", // 9
-    "by Male Cuéllar" // 10
+    "by Male Cuéllar", // 10
+    "by Bradley", // 11
+
+    // 2026/10 lugano artists
+    "by Héctor Muñoz-Guzmán", // 12
+    "by Antonio Castello", // 13
+    "by Michal Škapa", // 14
+    "by Junjie Hou",  // 15
+    "by GARE", // 16
+    "by Zoie Lam", // 17
+    "by Ariel Toba", // 18
+    "by Chiang Mai", // 19
+    "by Male Cuellar", // 20
+    "by Damiano Mengozzi", // 21
+
+    // 2026/10 lugano original
+    "Nervape CAMP — Lugano 2026" // 22
 ];
 
-pub const NERVAPE_SERIES: [&str; 4] = [
+pub const NERVAPE_SERIES: [&str; 6] = [
     "Color Vibes",       // 0
     "BTC Special",       // 1
     "Taiwan Special",    // 2
     "Individual Artist", // 3
+    "Custom", // 4,
+    "Nervape CAMP", // 5
 ];
 
 // Nervape Origin
